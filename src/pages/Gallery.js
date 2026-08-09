@@ -1,7 +1,7 @@
 import React from 'react'
 import kalaa from '../assests/image.jpg';
 import central from '../assests/image1.jpg';
-import souk from '../assests/Nabatieh_2017-08.png';
+import souk from '../assests/nabatiehsou.jpeg';
 
 const Gallery=() =>{
   return (
